@@ -1,1 +1,3 @@
-​
+- new Set()  creates unique object that automatically remove any duplicate
+- it has a property  `.size` to check how many element in the set (remeber not .length)
+- new Set() also have properties such as add() or delete() or forEach()
